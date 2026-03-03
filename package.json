@@ -17,7 +17,6 @@
         "@whiskeysockets/baileys": "^6.7.21",
         "awesome-phonenumber": "7.2.0",
         "body-parser": "^1.20.3",
-        "megajs": "^1.0.0",
         "express": "^4.21.2",
         "path": "^0.12.7",
         "phone": "3.1.55",
